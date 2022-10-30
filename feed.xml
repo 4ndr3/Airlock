@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:spotify="http://www.spotify.com/ns/rss"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+    xmlns:media="http://search.yahoo.com/mrss/">
+
+<channel>
+    <title>Emperor’s Hammer Airlock Podcast</title>
+    <atom:link href="https://podcast.emperorshammer.org/Airlock/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://podcast.emperorshammer.org/Airlock/</link>
+    <description>Emperor’s Hammer Airlock Podcast</description>
+    <pubDate>Mon, 24 Oct 2022 12:28:42 -0300</pubDate>
+    <generator></generator>
+    <language>en</language>
+        <copyright>CC BY-NC-SA</copyright>
+    <category>Leisure:Video Games</category>
+    <ttl>1440</ttl>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle></itunes:subtitle>
+          <itunes:summary></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+	<itunes:category text="Leisure">
+		<itunes:category text="Video Games" />
+	</itunes:category>
+    <itunes:owner>
+        <itunes:name>LegionX</itunes:name>
+        <itunes:email>admin@emperorshammer.org</itunes:email>
+    </itunes:owner>
+	<itunes:block>No</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:new-feed-url>https://podcast.emperorshammer.org/Airlock/feed.xml</itunes:new-feed-url>
+    <itunes:image href="https://podcast.emperorshammer.org/Airlock/airlockpodcast_sq_1400.png" />
+    <image>
+        <url>https://podcast.emperorshammer.org/Airlock/airlockpodcast_sq_1400.jpg</url>
+        <title>Emperor’s Hammer Airlock</title>
+        <link>https://podcast.emperorshammer.org/Airlock/</link>
+        <width>1400</width>
+        <height>1400</height>
+    </image>
+
+
+    <item>
+        <title>Episode 1 with VA Silwar Naiilo</title>
+        <itunes:title>Episode 1 with VA Silwar Naiilo</itunes:title>
+        <link></link>
+                    <comments></comments>        <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/ccff7a8a-d8b6-312a-8075-836392acae86</guid>
+                      <description><![CDATA[<p>In this episode, we interviewed Silwar Naiilo about the latest talk that's been happening around the fleet.</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>In this episode, we interviewed Silwar Naiilo about the latest talk that's been happening around the fleet.</p>
+]]></content:encoded>
+                    
+        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP001.m4a" length="44097980" type="audio/x-m4a"/>
+        <itunes:subtitle>In this episode, we interviewed Silwar Naiilo about the latest talk that's been happening around the fleet.</itunes:subtitle>
+        <itunes:summary><![CDATA[<p>In this episode, we interviewed Silwar Naiilo about the latest talk that's been happening around the fleet.</p>
+]]></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>45:26</itunes:duration>
+                <itunes:episode>1</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP001_Silwar.jpg" />    </item>
+
+    <item>
+        <title>Episode 2 with VA Phoenix Berkana</title>
+        <itunes:title>Episode 2 with VA Phoenix Berkana</itunes:title>
+        <link></link>
+                    <comments></comments>        <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/4b0ad117-24d2-32a6-be3c-d5e734d7d801</guid>
+                      <description><![CDATA[<p>In this episode, we interviewed Vice Admiral Phoenix Berkana of the ISD Hammer about some familiar faces that are returning to the TIE Corps, some new things happening around the fleet, and a bunch of other things!</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>In this episode, we interviewed Vice Admiral Phoenix Berkana of the ISD Hammer about some familiar faces that are returning to the TIE Corps, some new things happening around the fleet, and a bunch of other things!</p>
+]]></content:encoded>
+                
+        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP002.m4a" length="53887636" type="audio/x-m4a"/>
+        <itunes:subtitle>In this episode, we interviewed Vice Admiral Phoenix Berkana of the ISD Hammer about some familiar faces that are returning to the TIE Corps, some new things happening around the fleet, and a bunch of other things!</itunes:subtitle>
+        <itunes:summary><![CDATA[<p>In this episode, we interviewed Vice Admiral Phoenix Berkana of the ISD Hammer about some familiar faces that are returning to the TIE Corps, some new things happening around the fleet, and a bunch of other things!</p>
+]]></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>55:32</itunes:duration>
+                <itunes:episode>2</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP002_Phoenix.jpg" />    </item>
+	
+	
+    <item>
+        <title>Episode 3</title>
+        <itunes:title>Episode 3</itunes:title>
+        <link></link>
+                    <comments></comments>        <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/3c220a5e-c406-35e1-a18d-56ac43a426d8</guid>
+                      <description><![CDATA[<p>In this episode, Thunder Squadron Commander / Captain LegionX himself gets interviewed by his own Commodore, Vice Admiral Silwar, to discuss about his own career within the Tie Corps and his character "Legion" himself.</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>In this episode, Thunder Squadron Commander / Captain LegionX himself gets interviewed by his own Commodore, Vice Admiral Silwar, to discuss about his own career within the Tie Corps and his character "Legion" himself.</p>
+]]></content:encoded>
+                
+        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP003.m4a" length="63211400" type="audio/x-m4a"/>
+        <itunes:subtitle>In this episode, Thunder Squadron Commander / Captain LegionX himself gets interviewed by his own Commodore, Vice Admiral Silwar, to discuss about his own career within the Tie Corps and his character "Legion" himself.</itunes:subtitle>
+        <itunes:summary><![CDATA[<p>In this episode, Thunder Squadron Commander / Captain LegionX himself gets interviewed by his own Commodore, Vice Admiral Silwar, to discuss about his own career within the Tie Corps and his character "Legion" himself.</p>
+]]></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:05:08</itunes:duration>
+                <itunes:episode>3</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP001_Silwar.jpg" />    </item>
+	
+
+    <item>
+        <title>Episode 4</title>
+        <itunes:title>Episode 4</itunes:title>
+        <link></link>
+                    <comments></comments>        <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/640cc845-c0ce-303e-82b5-67f9456a364e</guid>
+                      <description><![CDATA[<p>In this episode, CPT LegionX has brought on not only the Squadron Commander of Tempest Squad, but several others from Tempest as well! Tune in as we get to hear from the current TCCOM's Escort Squadron!</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>In this episode, CPT LegionX has brought on not only the Squadron Commander of Tempest Squad, but several others from Tempest as well! Tune in as we get to hear from the current TCCOM's Escort Squadron!</p>
+]]></content:encoded>
+                
+        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP004.m4a" length="91050055" type="audio/x-m4a"/>
+        <itunes:subtitle>In this episode, CPT LegionX has brought on not only the Squadron Commander of Tempest Squad, but several others from Tempest as well! Tune in as we get to hear from the current TCCOM's Escort Squadron!</itunes:subtitle>
+        <itunes:summary><![CDATA[<p>In this episode, CPT LegionX has brought on not only the Squadron Commander of Tempest Squad, but several others from Tempest as well! Tune in as we get to hear from the current TCCOM's Escort Squadron!</p>
+]]></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:33:49</itunes:duration>
+                <itunes:episode>4</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP004_Honsou.jpg" />    </item>
+
+
+    <item>
+        <title>Episode 5</title>
+        <itunes:title>Episode 5</itunes:title>
+        <link></link>
+                    <comments></comments>        <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/a31f1d96-ee5f-376a-b331-38620ee61bd8</guid>
+                      <description><![CDATA[<p>In this episode, CPT LegionX has brought on Sin Squadron Commander, CPT SkyShadow. Discussing the creation of Tailoring Tool 3, Chalquilla Cup, and even the Legion's Challenging Time Trials.</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>In this episode, CPT LegionX has brought on Sin Squadron Commander, CPT SkyShadow. Discussing the creation of Tailoring Tool 3, Chalquilla Cup, and even the Legion's Challenging Time Trials.</p>
+]]></content:encoded>
+                
+        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP005.m4a" length="68519046" type="audio/x-m4a"/>
+        <itunes:subtitle>In this episode, CPT LegionX has brought on Sin Squadron Commander, CPT SkyShadow. Discussing the creation of Tailoring Tool 3, Chalquilla Cup, and even the Legion's Challenging Time Trials.</itunes:subtitle>
+        <itunes:summary><![CDATA[<p>In this episode, CPT LegionX has brought on Sin Squadron Commander, CPT SkyShadow. Discussing the creation of Tailoring Tool 3, Chalquilla Cup, and even the Legion's Challenging Time Trials.</p>
+]]></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:10:36</itunes:duration>
+                <itunes:episode>5</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP005_SkyShadow.jpg" />    </item>
+	
+
+    <item>
+        <title>Episode 6</title>
+        <itunes:title>Episode 6</itunes:title>
+        <link></link>
+                    <comments></comments>        <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/8e207b81-0b4c-393b-bc82-2eafd78c48e3</guid>
+                      <description><![CDATA[<p>In this episode, CPT LegionX has brought on Epsilon Squadron Commander, LC Taygetta. Talking some more about Chalquilla Cup, Legion's Challenging Time Trials, and even World of Warcraft?</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>In this episode, CPT LegionX has brought on Epsilon Squadron Commander, LC Taygetta. Talking some more about Chalquilla Cup, Legion's Challenging Time Trials, and even World of Warcraft?</p>
+]]></content:encoded>
+            
+        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP006.m4a"  length="49905106" type="audio/x-m4a"/>
+        <itunes:subtitle>In this episode, CPT LegionX has brought on Epsilon Squadron Commander, LC Taygetta. Talking some more about Chalquilla Cup, Legion's Challenging Time Trials, and even World of Warcraft?</itunes:subtitle>
+        <itunes:summary><![CDATA[<p>In this episode, CPT LegionX has brought on Epsilon Squadron Commander, LC Taygetta. Talking some more about Chalquilla Cup, Legion's Challenging Time Trials, and even World of Warcraft?</p>
+]]></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>51:25</itunes:duration>
+                <itunes:episode>6</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP006_Taygetta.jpg" />    </item>
+
+	<item>
+        <title>Episode 7</title>
+        <itunes:title>Episode 7</itunes:title>
+        <link></link>
+                    <comments></comments>        <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/c07e746-b9a4-3d47-a972-2d7a4188bddc</guid>
+                      <description><![CDATA[<p>In this episode, LegionX brings in Eagle Squadron CMDR MAJ Graf D'Jinn and several other squad members from Eagle.</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>In this episode, LegionX brings in Eagle Squadron CMDR MAJ Graf D'Jinn and several other squad members from Eagle.</p>
+]]></content:encoded>
+    
+        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP007.m4a" length="76897903" type="audio/x-m4a"/>
+        <itunes:subtitle>In this episode, LegionX brings in Eagle Squadron CMDR MAJ Graf D'Jinn and several other squad members from Eagle.</itunes:subtitle>
+        <itunes:summary><![CDATA[<p>In this episode, LegionX brings in Eagle Squadron CMDR MAJ Graf D'Jinn and several other squad members from Eagle.</p>
+]]></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:29:27</itunes:duration>
+                <itunes:episode>7</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP007_Graff_DJinn_3xnir2.jpg" />    	</item>
+
+
+	    <item>
+	        <title>Episode 8</title>
+	        <itunes:title>Episode 8</itunes:title>
+	        <link></link>
+	                    <comments></comments>        <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+	        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/4d85c119-0269-3d11-b2e6-85abe3557fd3</guid>
+	                      <description><![CDATA[<p>In this episode, LegionX brings in Lambda Squadron CMDR COL Genie and we finally reveal Genie's character species!</p>
+	]]></description>
+	                        <content:encoded><![CDATA[<p>In this episode, LegionX brings in Lambda Squadron CMDR COL Genie and we finally reveal Genie's character species!</p>
+	]]></content:encoded>
+            
+	        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP008.m4a" length="55213932" type="audio/x-m4a"/>
+	        <itunes:subtitle>In this episode, LegionX brings in Lambda Squadron CMDR COL Genie and we finally reveal Genie's character species!</itunes:subtitle>
+	        <itunes:summary><![CDATA[<p>In this episode, LegionX brings in Lambda Squadron CMDR COL Genie and we finally reveal Genie's character species!</p>
+	]]></itunes:summary>
+	        <itunes:author>LegionX</itunes:author>
+	        <itunes:explicit>no</itunes:explicit>
+	        <itunes:block>No</itunes:block>
+	        <itunes:duration>01:02:56</itunes:duration>
+	                <itunes:episode>8</itunes:episode>
+	        <itunes:episodeType>full</itunes:episodeType>
+	        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP008_Genie_aqkhg6.jpg" />    </item>
+
+
+    <item>
+        <title>Episode 9</title>
+        <itunes:title>Episode 9</itunes:title>
+        <link></link>
+                    <comments></comments>        <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/17148319-aaf7-3edf-8b6a-d23b4eed3715</guid>
+                      <description><![CDATA[<p>In this episode, LegionX brings in Rho Squadron CMDR MAJ Adam "fr0zen" Wietu on the show.</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>In this episode, LegionX brings in Rho Squadron CMDR MAJ Adam "fr0zen" Wietu on the show.</p>
+]]></content:encoded>
+
+        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP009.m4a" length="67775333" type="audio/x-m4a"/>
+        <itunes:subtitle>In this episode, LegionX brings in Rho Squadron CMDR MAJ Adam "fr0zen" Wietu on the show.</itunes:subtitle>
+        <itunes:summary><![CDATA[<p>In this episode, LegionX brings in Rho Squadron CMDR MAJ Adam "fr0zen" Wietu on the show.</p>
+]]></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:18:23</itunes:duration>
+                <itunes:episode>9</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP009_Fr0zen_ea6c2x.jpg" />    </item>
+
+
+    <item>
+        <title>Episode 10</title>
+        <itunes:title>Episode 10</itunes:title>
+        <link></link>
+                    <comments></comments>        <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/7819fb28-a6d3-4ff0-b9b1-f7685d2867fb</guid>
+                      <description><![CDATA[<p>In this episode, LegionX brings in Inferno Squadron CMDR LC EvilGrin on the show.</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>In this episode, LegionX brings in Inferno Squadron CMDR LC EvilGrin on the show.</p>
+]]></content:encoded>
+    
+        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP010.m4a" length="43108100" type="audio/x-m4a"/>
+        <itunes:subtitle>In this episode, LegionX brings in Inferno Squadron CMDR LC EvilGrin on the show.</itunes:subtitle>
+        <itunes:summary><![CDATA[<p>In this episode, LegionX brings in Inferno Squadron CMDR LC EvilGrin on the show.</p>
+]]></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>49:28</itunes:duration>
+                <itunes:episode>10</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP010_EvilGrin_rrm7ce.jpg" />    </item>
+
+
+    <item>
+        <title>Episode 11</title>
+        <itunes:title>Episode 11</itunes:title>
+        <link></link>
+                    <comments></comments>        <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/5ed883b7-2d2f-4016-9f16-e000bf77c119</guid>
+                      <description><![CDATA[<p>In this episode, The COM and CMDRs of the ISDII Challenge get together to discuss Imperial Storm 4. Listen on on the Challenge's perspective of the war games happening!</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>In this episode, The COM and CMDRs of the ISDII Challenge get together to discuss Imperial Storm 4. Listen on on the Challenge's perspective of the war games happening!</p>
+]]></content:encoded>
+
+        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP011.m4a" length="72451643" type="audio/x-m4a"/>
+        <itunes:subtitle>In this episode, The COM and CMDRs of the ISDII Challenge get together to discuss Imperial Storm 4. Listen on on the Challenge's perspective of the war games happening!</itunes:subtitle>
+        <itunes:summary><![CDATA[<p>In this episode, The COM and CMDRs of the ISDII Challenge get together to discuss Imperial Storm 4. Listen on on the Challenge's perspective of the war games happening!</p>
+]]></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:23:24</itunes:duration>
+                <itunes:episode>11</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP011_CMDRsIS4_qta8ry.jpg" />    </item>
+
+
+    <item>
+        <title>Episode 12</title>
+        <itunes:title>Episode 12</itunes:title>
+        <link></link>
+                    <comments></comments>        <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/25a76c0c-bd25-4667-baf0-ce858b99913f</guid>
+                      <description><![CDATA[<p>In this episode, Legion FINALLY is able to get a Warrior COM on the show. The Fleet's newest Commodore for the ISDII Warrior, VA Marenta "Sus" Jean.</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>In this episode, Legion FINALLY is able to get a Warrior COM on the show. The Fleet's newest Commodore for the ISDII Warrior, VA Marenta "Sus" Jean.</p>
+]]></content:encoded>
+
+        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP012.m4a" length="63647978" type="audio/x-m4a"/>
+        <itunes:subtitle>In this episode, Legion FINALLY is able to get a Warrior COM on the show. The Fleet's newest Commodore for the ISDII Warrior, VA Marenta "Sus" Jean.</itunes:subtitle>
+        <itunes:summary><![CDATA[<p>In this episode, Legion FINALLY is able to get a Warrior COM on the show. The Fleet's newest Commodore for the ISDII Warrior, VA Marenta "Sus" Jean.</p>
+]]></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:13:24</itunes:duration>
+                <itunes:episode>12</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP012_Marenta_ye7r6h.jpg" />    </item>
+
+
+    <item>
+        <title>Episode 13</title>
+        <itunes:title>Episode 13</itunes:title>
+        <link></link>
+                    <comments></comments>        <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/3f03fb9c-ba4a-4191-9937-e887e7bdd82e</guid>
+                      <description><![CDATA[<p>In this episode, Legion has one of the most iconic members brought on the show. Sector Admiral Kamjin "Maverick" Lap'lamiz himself! See what the admiral brings to the show!</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>In this episode, Legion has one of the most iconic members brought on the show. Sector Admiral Kamjin "Maverick" Lap'lamiz himself! See what the admiral brings to the show!</p>
+]]></content:encoded>
+
+        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP013.m4a" length="108994462" type="audio/x-m4a"/>
+        <itunes:subtitle>In this episode, Legion has one of the most iconic members brought on the show. Sector Admiral Kamjin "Maverick" Lap'lamiz himself! See what the admiral brings to the show!</itunes:subtitle>
+        <itunes:summary><![CDATA[<p>In this episode, Legion has one of the most iconic members brought on the show. Sector Admiral Kamjin "Maverick" Lap'lamiz himself! See what the admiral brings to the show!</p>
+]]></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>02:07:36</itunes:duration>
+                <itunes:episode>13</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP013_Kamjin_g44vhe.jpg" />    </item>
+
+
+    <item>
+        <title>Episode 14</title>
+        <itunes:title>Episode 14</itunes:title>
+        <link></link>
+                    <comments></comments>        <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/cce781a8-4634-4bca-9a9e-52cedf751f24</guid>
+                      <description><![CDATA[<p>In the start of Season 2 of the Airlock Podcast, MAJ Legion X brings our newly appointed Training Officer, RA Sylas Pitt, to the show to talk about the journey from Sub Lieutenant to Rear Admiral and discuss the future of the Imperial University</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>In the start of Season 2 of the Airlock Podcast, MAJ Legion X brings our newly appointed Training Officer, RA Sylas Pitt, to the show to talk about the journey from Sub Lieutenant to Rear Admiral and discuss the future of the Imperial University</p>
+]]></content:encoded>
+
+        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP014.m4a" length="34962861" type="audio/x-m4a"/>
+        <itunes:subtitle>In the start of Season 2 of the Airlock Podcast, MAJ Legion X brings our newly appointed Training Officer, RA Sylas Pitt, to the show to talk about the journey from Sub Lieutenant to Rear Admiral and discuss the future of the Imperial University</itunes:subtitle>
+        <itunes:summary><![CDATA[<p>In the start of Season 2 of the Airlock Podcast, MAJ Legion X brings our newly appointed Training Officer, RA Sylas Pitt, to the show to talk about the journey from Sub Lieutenant to Rear Admiral and discuss the future of the Imperial University</p>
+]]></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>40:15</itunes:duration>
+                <itunes:episode>14</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP014_Sylas_Pitt_5bz9zz.jpg" />    </item>
+
+
+    <item>
+        <title>Episode 15</title>
+        <itunes:title>Episode 15</itunes:title>
+        <link></link>
+                    <comments></comments>        <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/decdeaf5-226a-44fb-819c-4e04b91eb2f5</guid>
+                      <description><![CDATA[<p>IIn this episode of the Airlock Podcast, MAJ Legion X brings our Logistics Officer, RA Jaxx "Hijacker" Nassin, to have a chat about the Emperor's Hammer Lore/Cannon timeline, The Rear Admiral's Journey to his position, and plenty of funny moments. </p>
+]]></description>
+                        <content:encoded><![CDATA[<p>In this episode of the Airlock Podcast, MAJ Legion X brings our Logistics Officer, RA Jaxx "Hijacker" Nassin, to have a chat about the Emperor's Hammer Lore/Cannon timeline, The Rear Admiral's Journey to his position, and plenty of funny moments. </p>
+]]></content:encoded>
+
+        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP015.m4a" length="58885649" type="audio/x-m4a"/>
+        <itunes:subtitle>In this episode of the Airlock Podcast, MAJ Legion X brings our Logistics Officer, RA Jaxx "Hijacker" Nassin, to have a chat about the Emperor's Hammer Lore/Cannon timeline, The Rear Admiral's Journey to his position, and plenty of funny moments. </itunes:subtitle>
+        <itunes:summary><![CDATA[<p>In this episode of the Airlock Podcast, MAJ Legion X brings our Logistics Officer, RA Jaxx "Hijacker" Nassin, to have a chat about the Emperor's Hammer Lore/Cannon timeline, The Rear Admiral's Journey to his position, and plenty of funny moments. </p>
+]]></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:08:37</itunes:duration>
+                <itunes:episode>15</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP015_Hijacker_ddpu23.jpg" />    </item>
+
+
+    <item>
+        <title>Episode 16</title>
+        <itunes:title>Episode 16</itunes:title>
+        <link></link>
+                    <comments></comments>        <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/3b63bf94-9aa4-4123-bc91-387aaacc16bb</guid>
+                      <description><![CDATA[<p>In this episode of the Airlock Podcast, MAJ Legion X brings in the Recon Officer/ Combat Operations Officer, FA Miles "Tails" Prower, onto the show to discuss his history and plans for both his offices.</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>In this episode of the Airlock Podcast, MAJ Legion X brings in the Recon Officer/ Combat Operations Officer, FA Miles "Tails" Prower, onto the show to discuss his history and plans for both his offices.</p>
+]]></content:encoded>
+
+        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP016.m4a" length="51709264" type="audio/x-m4a"/>
+        <itunes:subtitle>In this episode of the Airlock Podcast, MAJ Legion X brings in the Recon Officer/ Combat Operations Officer, FA Miles "Tails" Prower, onto the show to discuss his history and plans for both his offices.</itunes:subtitle>
+        <itunes:summary><![CDATA[<p>In this episode of the Airlock Podcast, MAJ Legion X brings in the Recon Officer/ Combat Operations Officer, FA Miles "Tails" Prower, onto the show to discuss his history and plans for both his offices.</p>
+]]></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:00:01</itunes:duration>
+                <itunes:episode>16</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP016_Miles_Prower_nunfhm.jpg" />    </item>
+
+
+    <item>
+        <title>Episode 17</title>
+        <itunes:title>Episode 17</itunes:title>
+        <link></link>
+                    <comments></comments>        <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/417d5408-ff4c-474c-b33e-e3e75bdeb2cb</guid>
+                      <description><![CDATA[<p>In this episode of the Airlock Podcast, MAJ Legion X is doing a solo Q & A session with questions chosen from TIE Corps Squadron CMDRs and Command Staff Admirals. See what he can answer to the best of his abilities. (All answers if not directly from a written source are to be considered opinion)</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>In this episode of the Airlock Podcast, MAJ Legion X is doing a solo Q & A session with questions chosen from TIE Corps Squadron CMDRs and Command Staff Admirals. See what he can answer to the best of his abilities. (All answers if not directly from a written source are to be considered opinion)</p>
+]]></content:encoded>
+
+        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP017.m4a" length="58116795" type="audio/x-m4a"/>
+        <itunes:subtitle>In this episode of the Airlock Podcast, MAJ Legion X is doing a solo Q and A session with questions chosen from TIE Corps Squadron CMDRs and Command Staff Admirals. See what he can answer to the best of his abilities. (All answers if not directly from a written source are to be considered opinion)</itunes:subtitle>
+        <itunes:summary><![CDATA[<p>In this episode of the Airlock Podcast, MAJ Legion X is doing a solo Q & A session with questions chosen from TIE Corps Squadron CMDRs and Command Staff Admirals. See what he can answer to the best of his abilities. (All answers if not directly from a written source are to be considered opinion)</p>
+]]></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:06:10</itunes:duration>
+                <itunes:episode>17</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP017_LegionX_2xisd7.jpg" />    </item>
+
+
+    <item>
+        <title>Episode 18</title>
+        <itunes:title>Episode 18</itunes:title>
+        <link></link>
+                    <comments></comments>        <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/59148b2e-63bc-4127-8605-973a19a81ac5</guid>
+                      <description><![CDATA[<p>In this episode of the Airlock Podcast, MAJ Legion X brings in the Internet Officer himself onto the show, FA Turtle Jerrar. See what goes on behind the scenes with the IO department!</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>In this episode of the Airlock Podcast, MAJ Legion X brings in the Internet Officer himself onto the show, FA Turtle Jerrar. See what goes on behind the scenes with the IO department!</p>
+]]></content:encoded>
+
+        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP018.m4a" length="74266352" type="audio/x-m4a"/>
+        <itunes:subtitle>In this episode of the Airlock Podcast, MAJ Legion X brings in the Internet Officer himself onto the show, FA Turtle Jerrar. See what goes on behind the scenes with the IO department!</itunes:subtitle>
+        <itunes:summary><![CDATA[<p>In this episode of the Airlock Podcast, MAJ Legion X brings in the Internet Officer himself onto the show, FA Turtle Jerrar. See what goes on behind the scenes with the IO department!</p>
+]]></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:26:16</itunes:duration>
+                <itunes:episode>18</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP018_Turtle_hz2gn7.jpg" />    </item>
+</channel>
+</rss>
