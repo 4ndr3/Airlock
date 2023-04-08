@@ -472,6 +472,57 @@
         <itunes:duration>01:26:16</itunes:duration>
                 <itunes:episode>18</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP018_Turtle_hz2gn7.jpg" />    </item>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP018_Turtle_hz2gn7.jpg" /> 
+   </item>
+
+
+    <item>
+        <title>Episode 19</title>
+        <itunes:title>Episode 19</itunes:title>
+        <link></link>
+                    <comments></comments>        <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/2424406b-5272-4d6b-8d08-77b4f68a5474</guid>
+                      <description><![CDATA[<p>With the start of a brand new season and co hosts, The AirLock Podcast returns after a very long hiatus! Now evolving from it's usual interview like format with a new host and co host system, LegionX brings in JetMech and Vaner to discuss the going ons within the Emperors Hammer and the TIE Corps!</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>With the start of a brand new season and co hosts, The AirLock Podcast returns after a very long hiatus! Now evolving from it's usual interview like format with a new host and co host system, LegionX brings in JetMech and Vaner to discuss the going ons within the Emperors Hammer and the TIE Corps!</p>
+]]></content:encoded>
+
+        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP019.m4a" length="79204595" type="audio/x-m4a"/>
+        <itunes:subtitle>With the start of a brand new season and co hosts, The AirLock Podcast returns after a very long hiatus! Now evolving from it's usual interview like format with a new host and co host system, LegionX brings in JetMech and Vaner to discuss the going ons within the Emperors Hammer and the TIE Corps!</itunes:subtitle>
+        <itunes:summary><![CDATA[<p>With the start of a brand new season and co hosts, The AirLock Podcast returns after a very long hiatus! Now evolving from it's usual interview like format with a new host and co host system, LegionX brings in JetMech and Vaner to discuss the going ons within the Emperors Hammer and the TIE Corps!</p>
+]]></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:29:25</itunes:duration>
+                <itunes:episode>19</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP019.jpg" /> 
+   </item>
+
+
+    <item>
+        <title>Episode 20</title>
+        <itunes:title>Episode 20</itunes:title>
+        <link></link>
+                    <comments></comments>        <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/789152d9-8564-4e28-be97-b12e172358d2</guid>
+                      <description><![CDATA[<p>Spoiler Warning Ahead - The Mandalorian show's latest developments are discussed in this episode. On tonight's episode, Legion, Jet, and Vapen, we go over a few things around the EH Fleet, our new EH Bloodbowl league (our version of Dejarik) The Mandalorian show and other topics.</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>Spoiler Warning Ahead - The Mandalorian show's latest developments are discussed in this episode. On tonight's episode, Legion, Jet, and Vapen, we go over a few things around the EH Fleet, our new EH Bloodbowl league (our version of Dejarik) The Mandalorian show and other topics.</p>
+]]></content:encoded>
+
+        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP020.m4a" length="94278060" type="audio/x-m4a"/>
+        <itunes:subtitle>Spoiler Warning Ahead - The Mandalorian show's latest developments are discussed in this episode. On tonight's episode, Legion, Jet, and Vapen, we go over a few things around the EH Fleet, our new EH Bloodbowl league (our version of Dejarik) The Mandalorian show and other topics. </itunes:subtitle>
+        <itunes:summary><![CDATA[<p>Spoiler Warning Ahead - The Mandalorian show's latest developments are discussed in this episode. On tonight's episode, Legion, Jet, and Vapen, we go over a few things around the EH Fleet, our new EH Bloodbowl league (our version of Dejarik) The Mandalorian show and other topics.</p>
+]]></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:03:31</itunes:duration>
+                <itunes:episode>20</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP020.jpg" /> 
+   </item>   
 </channel>
 </rss>
