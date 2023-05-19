@@ -523,6 +523,31 @@
                 <itunes:episode>20</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP020.jpg" /> 
-   </item>   
+	</item>
+
+
+	<item>
+        <title>Episode 21</title>
+        <itunes:title>Episode 21</itunes:title>
+        <link></link>
+                    <comments></comments>        <pubDate>Fri, 18 May 2023 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">podcast.emperorshammer.org/Airlock/e85b8372-5605-477d-a481-16cd465833a7</guid>
+                      <description><![CDATA[<p>On tonight's episode, Legion and Jet talk about several new changes happening around the TIE Corps (Vapen is out on vacation). Marenta's return to BGCOM of BG2, where to find information about Combat Events and other competitions, and even talk about the upcoming Squad ReMob.</p>
+]]></description>
+                        <content:encoded><![CDATA[<p>On tonight's episode, Legion and Jet talk about several new changes happening around the TIE Corps (Vapen is out on vacation). Marenta's return to BGCOM of BG2, where to find information about Combat Events and other competitions, and even talk about the upcoming Squad ReMob.</p>
+]]></content:encoded>
+
+        <enclosure url="https://podcast.emperorshammer.org/Airlock/TCAP021.m4a" length="100064008" type="audio/x-m4a"/>
+        <itunes:subtitle>On tonight's episode, Legion and Jet talk about several new changes happening around the TIE Corps (Vapen is out on vacation). Marenta's return to BGCOM of BG2, where to find information about Combat Events and other competitions, and even talk about the upcoming Squad ReMob.</itunes:subtitle>
+        <itunes:summary><![CDATA[<p>On tonight's episode, Legion and Jet talk about several new changes happening around the TIE Corps (Vapen is out on vacation). Marenta's return to BGCOM of BG2, where to find information about Combat Events and other competitions, and even talk about the upcoming Squad ReMob.</p>
+]]></itunes:summary>
+        <itunes:author>LegionX</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:07:25</itunes:duration>
+                <itunes:episode>21</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://podcast.emperorshammer.org/Airlock/TCAP021.jpg" /> 
+	</item>
 </channel>
 </rss>
